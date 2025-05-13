@@ -9,6 +9,6 @@ function Logar(event){
         alert(`Usuário ${email} logado com sucesso!`);
         window.location.href = "pag2.html";
     }else{
-        alert("Usuário não cadastrado :/, revise seus dados");
+        alert("Usuário não cadastrado :/ revise seus dados");
     }
 }
